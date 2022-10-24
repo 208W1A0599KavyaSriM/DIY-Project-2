@@ -1,5 +1,3 @@
-#DIYProject
-
-#My Portfolio website using simple HTML,CSS,JavaScript.
-
-Website link:
+# DIYProject
+Attendance System Through Cloud Infrastructure as a Service
++ Static Website link:https://attendsystem.z29.web.core.windows.net/
