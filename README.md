@@ -1,3 +1,3 @@
-# DIYProject1
-+My Portfolio website using simple HTML,CSS,JavaScript.
+My Portfolio website using simple HTML,CSS,JavaScript.
+
 +Website link:
